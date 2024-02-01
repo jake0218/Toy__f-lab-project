@@ -17,6 +17,9 @@ const config: Config = {
       '2xl': '1536px',
     },
     extend: {
+      fontFamily: {
+        pretendard: 'Pretendard, noto-sans'
+      },
       colors: {
         black1: '#212529',
 
